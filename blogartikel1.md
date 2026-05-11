@@ -1,5 +1,5 @@
 ---
-title: De comeback van de Statische Website
+title: De AI-revolutie in je Code Editor
 date: 2026-05-11
 author: Youssef Agoula (met AI)
 ---
