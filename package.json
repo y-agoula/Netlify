@@ -1,0 +1,13 @@
+{
+  "name": "mijn-tech-blog",
+  "version": "1.0.0",
+  "description": "Mijn persoonlijke blog gebouwd met Eleventy",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
