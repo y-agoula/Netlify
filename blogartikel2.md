@@ -2,6 +2,7 @@
 title: De comeback van de Statische Website
 date: 2026-05-11
 author: Youssef Agoula (met AI)
+layout: layout.njk
 ---
 
 # Artikel 2: De comeback van de Statische Website
@@ -15,4 +16,4 @@ Waarom dit belangrijk is:
 
 * **Kosten:** Hosting op platformen zoals Netlify of Vercel is vaak gratis voor statische projecten.
 
-Met de opkomst van Edge Computing worden deze sites nog krachtiger. De website van de toekomst is geen log monster, maar een gestroomlijnde verzameling bestanden die overal ter wereld direct beschikbaar zijn.# Netlify
+Met de opkomst van Edge Computing worden deze sites nog krachtiger. De website van de toekomst is geen log monster, maar een gestroomlijnde verzameling bestanden die overal ter wereld direct beschikbaar zijn.

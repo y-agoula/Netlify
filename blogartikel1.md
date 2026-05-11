@@ -2,6 +2,7 @@
 title: De AI-revolutie in je Code Editor
 date: 2026-05-11
 author: Youssef Agoula (met AI)
+layout: layout.njk
 ---
 
 # Artikel 1: De AI-revolutie in je Code Editor
@@ -15,4 +16,4 @@ De voordelen op een rij:
 
 * **Focus:** Je kunt je concentreren op de architectuur in plaats van de puntkomma's.
 
-Hoewel sommigen vrezen dat AI de programmeur zal vervangen, wijst de praktijk het tegendeel uit: de lat voor wat we kunnen bouwen ligt simpelweg een stuk hoger. De vraag is niet óf je AI gaat gebruiken, maar hoe snel je het onder de knie krijgt.# Netlify
+Hoewel sommigen vrezen dat AI de programmeur zal vervangen, wijst de praktijk het tegendeel uit: de lat voor wat we kunnen bouwen ligt simpelweg een stuk hoger. De vraag is niet óf je AI gaat gebruiken, maar hoe snel je het onder de knie krijgt.
